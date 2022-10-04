@@ -6,3 +6,4 @@ if(amount<10){
 else{
     console.log('Big Number')
 }
+console.log('Program Finshed Execution Succesfully')
